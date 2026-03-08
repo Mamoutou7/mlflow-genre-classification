@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/f987c388a91e48dd877e6a682c8b46e4/artifacts
+end_time: 1674058391444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f987c388a91e48dd877e6a682c8b46e4
+run_name: grandiose-eel-119
+run_uuid: f987c388a91e48dd877e6a682c8b46e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058229162
+status: 4
+tags: []
+user_id: mamoutoufofana

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/efa28b4fc4ce435bb03825760ad0a2d3/artifacts
+end_time: 1674118297930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efa28b4fc4ce435bb03825760ad0a2d3
+run_name: rumbling-ox-975
+run_uuid: efa28b4fc4ce435bb03825760ad0a2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674118290873
+status: 3
+tags: []
+user_id: mamoutoufofana

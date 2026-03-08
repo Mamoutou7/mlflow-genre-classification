@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/793f2f4163be41d6aaafdb124767acb3/artifacts
+end_time: 1674115826560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 793f2f4163be41d6aaafdb124767acb3
+run_name: capable-bear-509
+run_uuid: 793f2f4163be41d6aaafdb124767acb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674115783417
+status: 3
+tags: []
+user_id: mamoutoufofana

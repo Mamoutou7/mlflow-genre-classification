@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/2e220ba089304073b0f188d7bbc1de28/artifacts
+end_time: 1674058229126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e220ba089304073b0f188d7bbc1de28
+run_name: glamorous-koi-202
+run_uuid: 2e220ba089304073b0f188d7bbc1de28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058049921
+status: 3
+tags: []
+user_id: mamoutoufofana

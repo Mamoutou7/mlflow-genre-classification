@@ -1,0 +1,51 @@
+{
+    "os": "macOS-10.14.6-x86_64-i386-64bit",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-01-19T08:09:00.858463",
+    "startedAt": "2023-01-19T08:09:00.194123",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:v0",
+        "--sample_artifact",
+        "preprocessed_data.csv:v0",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/Users/mamoutoufofana/.conda/envs/mlflow-8b4594a7f0f194cff3f9e150b2671ed90dcf352a/bin/pytest",
+    "git": {
+        "remote": "git@github.com:Mamoutou7/genre-classification.git",
+        "commit": "73ca7e1568c914bdadfbfc4d75022cd3875db3a5"
+    },
+    "email": "mamoutou1992fofana@gmail.com",
+    "root": "/Users/mamoutoufofana/Desktop/repositories/genre-classification",
+    "host": "MacFofana.local",
+    "username": "mamoutoufofana",
+    "executable": "/Users/mamoutoufofana/.conda/envs/mlflow-8b4594a7f0f194cff3f9e150b2671ed90dcf352a/bin/python3.10",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2700,
+        "min": 2700,
+        "max": 2700
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2700,
+            "min": 2700,
+            "max": 2700
+        }
+    ],
+    "disk": {
+        "total": 112.80464935302734,
+        "used": 101.53914642333984
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

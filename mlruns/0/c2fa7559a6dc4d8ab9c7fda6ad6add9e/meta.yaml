@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/c2fa7559a6dc4d8ab9c7fda6ad6add9e/artifacts
+end_time: 1674057637372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2fa7559a6dc4d8ab9c7fda6ad6add9e
+run_name: receptive-mink-958
+run_uuid: c2fa7559a6dc4d8ab9c7fda6ad6add9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057631111
+status: 4
+tags: []
+user_id: mamoutoufofana

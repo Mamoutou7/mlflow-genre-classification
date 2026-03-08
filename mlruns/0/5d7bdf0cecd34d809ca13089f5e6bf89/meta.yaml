@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/5d7bdf0cecd34d809ca13089f5e6bf89/artifacts
+end_time: 1674058974449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d7bdf0cecd34d809ca13089f5e6bf89
+run_name: fearless-crab-937
+run_uuid: 5d7bdf0cecd34d809ca13089f5e6bf89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058946177
+status: 3
+tags: []
+user_id: mamoutoufofana

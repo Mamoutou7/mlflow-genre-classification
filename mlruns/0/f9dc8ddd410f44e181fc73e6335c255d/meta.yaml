@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/f9dc8ddd410f44e181fc73e6335c255d/artifacts
+end_time: 1674059066549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9dc8ddd410f44e181fc73e6335c255d
+run_name: ambitious-tern-884
+run_uuid: f9dc8ddd410f44e181fc73e6335c255d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058913963
+status: 3
+tags: []
+user_id: mamoutoufofana

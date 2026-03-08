@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/9cbc757b357c4c5b868b6e9efc518e80/artifacts
+end_time: 1674057959141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cbc757b357c4c5b868b6e9efc518e80
+run_name: vaunted-lamb-241
+run_uuid: 9cbc757b357c4c5b868b6e9efc518e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057886011
+status: 3
+tags: []
+user_id: mamoutoufofana

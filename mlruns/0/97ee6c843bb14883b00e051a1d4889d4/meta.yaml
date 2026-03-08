@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/97ee6c843bb14883b00e051a1d4889d4/artifacts
+end_time: 1674118252982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97ee6c843bb14883b00e051a1d4889d4
+run_name: resilient-koi-696
+run_uuid: 97ee6c843bb14883b00e051a1d4889d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674118228291
+status: 3
+tags: []
+user_id: mamoutoufofana

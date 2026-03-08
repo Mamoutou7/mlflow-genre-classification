@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/cdf90196808e4685a3ae9830cc1a3e91/artifacts
+end_time: 1674058049874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdf90196808e4685a3ae9830cc1a3e91
+run_name: wise-turtle-758
+run_uuid: cdf90196808e4685a3ae9830cc1a3e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057959184
+status: 3
+tags: []
+user_id: mamoutoufofana

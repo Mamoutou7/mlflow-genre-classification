@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/e7b9f5e52c5a431aa63f19e9e90dce0d/artifacts
+end_time: 1674058946143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7b9f5e52c5a431aa63f19e9e90dce0d
+run_name: monumental-bass-904
+run_uuid: e7b9f5e52c5a431aa63f19e9e90dce0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058920215
+status: 3
+tags: []
+user_id: mamoutoufofana

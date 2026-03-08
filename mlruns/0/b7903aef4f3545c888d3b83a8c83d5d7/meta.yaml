@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/b7903aef4f3545c888d3b83a8c83d5d7/artifacts
+end_time: 1674115733195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7903aef4f3545c888d3b83a8c83d5d7
+run_name: big-calf-444
+run_uuid: b7903aef4f3545c888d3b83a8c83d5d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674115712441
+status: 3
+tags: []
+user_id: mamoutoufofana

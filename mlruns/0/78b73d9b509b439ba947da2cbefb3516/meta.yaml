@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/78b73d9b509b439ba947da2cbefb3516/artifacts
+end_time: 1674058392187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78b73d9b509b439ba947da2cbefb3516
+run_name: caring-seal-697
+run_uuid: 78b73d9b509b439ba947da2cbefb3516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057674775
+status: 4
+tags: []
+user_id: mamoutoufofana

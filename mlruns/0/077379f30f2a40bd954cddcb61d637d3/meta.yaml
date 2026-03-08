@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/077379f30f2a40bd954cddcb61d637d3/artifacts
+end_time: 1674059066268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 077379f30f2a40bd954cddcb61d637d3
+run_name: dapper-yak-839
+run_uuid: 077379f30f2a40bd954cddcb61d637d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059060262
+status: 3
+tags: []
+user_id: mamoutoufofana

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/6939bc78c79a4bddb0e311d0367d2b4a/artifacts
+end_time: 1674059028014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6939bc78c79a4bddb0e311d0367d2b4a
+run_name: shivering-gull-754
+run_uuid: 6939bc78c79a4bddb0e311d0367d2b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059006704
+status: 3
+tags: []
+user_id: mamoutoufofana

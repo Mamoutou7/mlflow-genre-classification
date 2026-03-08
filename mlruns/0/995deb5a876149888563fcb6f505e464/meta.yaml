@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/995deb5a876149888563fcb6f505e464/artifacts
+end_time: 1674115834772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 995deb5a876149888563fcb6f505e464
+run_name: puzzled-moth-940
+run_uuid: 995deb5a876149888563fcb6f505e464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674115826595
+status: 3
+tags: []
+user_id: mamoutoufofana

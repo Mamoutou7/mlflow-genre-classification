@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/f6bf4b859364464189fb46d8542ab07e/artifacts
+end_time: 1674115754217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6bf4b859364464189fb46d8542ab07e
+run_name: languid-foal-738
+run_uuid: f6bf4b859364464189fb46d8542ab07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674115733230
+status: 3
+tags: []
+user_id: mamoutoufofana

@@ -1,0 +1,51 @@
+{
+    "os": "macOS-10.14.6-x86_64-i386-64bit",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-01-19T08:08:19.464847",
+    "startedAt": "2023-01-19T08:08:07.688810",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/mamoutoufofana/Desktop/repositories/genre-classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "git@github.com:Mamoutou7/genre-classification.git",
+        "commit": "73ca7e1568c914bdadfbfc4d75022cd3875db3a5"
+    },
+    "email": "mamoutou1992fofana@gmail.com",
+    "root": "/Users/mamoutoufofana/Desktop/repositories/genre-classification",
+    "host": "MacFofana.local",
+    "username": "mamoutoufofana",
+    "executable": "/Users/mamoutoufofana/.conda/envs/mlflow-248f18df7e91fda0c9bc8cd42aaf72b65fca1e0a/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2700,
+        "min": 2700,
+        "max": 2700
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2700,
+            "min": 2700,
+            "max": 2700
+        }
+    ],
+    "disk": {
+        "total": 112.80464935302734,
+        "used": 101.5374984741211
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

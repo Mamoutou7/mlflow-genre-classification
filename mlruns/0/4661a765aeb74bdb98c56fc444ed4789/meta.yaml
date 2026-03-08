@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamoutoufofana/Desktop/repositories/genre-classification/mlruns/0/4661a765aeb74bdb98c56fc444ed4789/artifacts
+end_time: 1674056834427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4661a765aeb74bdb98c56fc444ed4789
+run_name: redolent-ram-668
+run_uuid: 4661a765aeb74bdb98c56fc444ed4789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056829365
+status: 4
+tags: []
+user_id: mamoutoufofana
